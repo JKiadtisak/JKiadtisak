@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kiadtisak Buaroeng
 ==========================================================================================================================================
 
-ปัจจุบันทำอาชีพค้าขาย กำลังเรียน Data Science Bootcamp 7 by เพจ DataRockie
+ปัจจุบันทำทำงานตำแหน่ง Software Tester
 
-* 🌍  I'm based in chon Buri Thailand
+* 🌍  I'm based in Bangkok Thailand
 * ✉️  You can contact me at [jakiattisak007@gmil.com](mailto:jakiattisak007@gmil.com)
 * 🧠  I'm learning Data Science Bootcamp 7 AND Industrial and Organizational Psychology
 * 🤝  I'm open to collaborating on Software Testing (Manual)
