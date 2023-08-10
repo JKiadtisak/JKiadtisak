@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bangkok Thailand
 * ✉️  You can contact me at [jakiattisak007@gmil.com](mailto:jakiattisak007@gmil.com)
-* 🧠  I'm learning Data Science Bootcamp 7 AND Industrial and Organizational Psychology
-* 🤝  I'm open to collaborating on Software Testing (Manual)
+* 🧠  I'm learning B.S. Degree in Computer Science  Ramkhamhaeng University
+* 🤝  I'm open to collaborating on Software Testing 
 
 ### Skills
 
